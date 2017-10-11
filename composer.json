@@ -1,6 +1,6 @@
 {
-  "name"       : "mbxsdk/router",
-  "description": "MBX SDK Module: Router",
+  "name"       : "mbxsdk/index",
+  "description": "MBX SDK Module: Index",
   "type"       : "library",
   "license"    : "MIT",
   "authors"    : [
